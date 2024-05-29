@@ -1,0 +1,6 @@
+C:\Users\USER\Desktop\Kadanes_Algorithm\CSharp\KadaneAlgorithm\KadaneAlgorithm\bin\Debug\KadaneAlgorithm.exe.config
+C:\Users\USER\Desktop\Kadanes_Algorithm\CSharp\KadaneAlgorithm\KadaneAlgorithm\bin\Debug\KadaneAlgorithm.exe
+C:\Users\USER\Desktop\Kadanes_Algorithm\CSharp\KadaneAlgorithm\KadaneAlgorithm\bin\Debug\KadaneAlgorithm.pdb
+C:\Users\USER\Desktop\Kadanes_Algorithm\CSharp\KadaneAlgorithm\KadaneAlgorithm\obj\Debug\KadaneAlgorithm.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\Kadanes_Algorithm\CSharp\KadaneAlgorithm\KadaneAlgorithm\obj\Debug\KadaneAlgorithm.exe
+C:\Users\USER\Desktop\Kadanes_Algorithm\CSharp\KadaneAlgorithm\KadaneAlgorithm\obj\Debug\KadaneAlgorithm.pdb
